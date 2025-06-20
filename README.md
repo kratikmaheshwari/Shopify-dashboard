@@ -38,7 +38,7 @@ To evaluate long-term growth and customer value, this section includes:
 -	Purchase Frequency: How often customers place orders, on average.
 
 4. Regional Overview - Province and Cities
---Filled Map (Province-Level):-
+##### Filled Map (Province-Level):-
 -	Purpose: Display province-wise performance using color saturation based on the selected measure.
 -	Interactivity: Changes dynamically with the measure selector.
 
