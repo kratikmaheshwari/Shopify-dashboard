@@ -4,8 +4,11 @@
 Descriptive and Diagnostic Analytics:- Shopify Sales Dashboard
 A dynamic, interactive data visualization tool built to explore Shopify sales data worldwide, focusing on regional comparisons, Net sales trend, transaction performance, and customer purchase behavior
 
-## Short Description / Purpose
+## Project Objective
 The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
+
+## Dataset used
+- <a href="https://github.com/kratikmaheshwari/Shopify-dashboard/blob/main/Shopify%20Sales.xlsx">Shopify Sales Data</a>
 
 ## Tech Stack
 The dashboard was built using the following tools and technologies
